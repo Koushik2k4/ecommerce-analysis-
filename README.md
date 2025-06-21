@@ -17,7 +17,7 @@ The goal was to extract actionable insights around sales performance, customer b
 
 ## Key Business Insights:
 - **Mumbai and Hyderabad** drive the highest revenue despite equal order volume across cities
-- **Clothing and Books** show extremely high return rates (~60%), impacting profitability
+- **Clothing and Books** show extremely high return rates , impacting profitability
 - **Customer retention is 0%**, suggesting a lack of repeat engagement or early-stage business
 - **April saw a major revenue dip** compared to January and March, indicating seasonal/marketing impact
 
